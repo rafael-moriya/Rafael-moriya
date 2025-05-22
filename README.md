@@ -1,9 +1,9 @@
  oi, meu nome é Rafael Moriya
  tenho 21 anos
- curso técnico de desenvolvimento de sistemas(DS) na ETEC ZL
- curso de logica de programaçao na USP leste
- Atualmente faço faculdade de análise e desenvolvimento de sistemas(ADS) na FATEC ZL
- e sou monitor de algoritimos e logica de programação
+ - fiz curso técnico de desenvolvimento de sistemas(DS) na ETEC ZL
+ - fiz curso de logica de programaçao na USP leste
+ - Atualmente faço faculdade de análise e desenvolvimento de sistemas(ADS) na FATEC ZL
+ - sou monitor de algoritimos e logica de programação
 
    </a> 
     <a href="https://github.com/rafael-moriya?tab=repositories&sort=stargazers">
