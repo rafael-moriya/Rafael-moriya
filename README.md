@@ -6,21 +6,7 @@
  - sou monitor de algoritimos e logica de programação
 
    </a> 
-    <a href="https://github.com/rafael-moriya?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rafael-moriya?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/rafael-moriya?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rafael-moriya?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<br/>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -100,6 +86,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
   
 [![Rafaelmoriya WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafael-moriya)](https://github.com/rafael-moriya/github-readme-stats)
 
-<img src="https://raw.githubusercontent.com/GustavoPereira-Dev/GustavoPereira-Dev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rafael-moriya/rafael-moriya/output/snake.svg" alt="Snake animation" />
 
 </div>
