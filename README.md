@@ -92,5 +92,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
   />
 
 </p>
+
 <br/>
 <br/>
+
+<div align="center">
+  
+[![Rafael's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafael-moriya)](https://github.com/rafael-moriya/github-readme-stats)
+
+<img src="https://raw.githubusercontent.com/GustavoPereira-Dev/GustavoPereira-Dev/output/snake.svg" alt="Snake animation" />
+
+</div>
