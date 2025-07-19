@@ -1,8 +1,8 @@
  oi, meu nome é Rafael Moriya
  tenho 21 anos
- - fiz curso técnico de desenvolvimento de sistemas(DS) na ETEC ZL
- - fiz curso de logica de programaçao na USP leste
- - Atualmente faço faculdade de análise e desenvolvimento de sistemas(ADS) na FATEC ZL
+- Desenvolvimento de sistemas(DS) na ETEC
+- Logica de programaçao na USP
+- Análise e desenvolvimento de sistemas(ADS) na FATEC
  
 
    </a> 
