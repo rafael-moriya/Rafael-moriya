@@ -3,7 +3,7 @@
  - fiz curso técnico de desenvolvimento de sistemas(DS) na ETEC ZL
  - fiz curso de logica de programaçao na USP leste
  - Atualmente faço faculdade de análise e desenvolvimento de sistemas(ADS) na FATEC ZL
- - sou monitor de algoritimos e logica de programação
+ 
 
    </a> 
 <br/>
