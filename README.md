@@ -1,100 +1,99 @@
- oi, meu nome é Rafael Moriya
- tenho 22 anos
-- Desenvolvimento de sistemas(DS) na ETEC
-- Logica de programaçao na USP
-- Análise e desenvolvimento de sistemas(ADS) na FATEC
- 
+Oi Meu nome é Rafael Moriya
 
-   </a> 
-<br/>
+Tenho 22 anos e sou estudante da área de Tecnologia da Informação.
 
-### 🤖 Linguagens e Tecnologias
+🎓 **Formação e estudos:**
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
-          
-<img 
-align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg"
-/>
-          
+* 💻 Desenvolvimento de Sistemas — ETEC
+* 🧠 Lógica de Programação — USP
+* 🎓 Análise e Desenvolvimento de Sistemas — FATEC
+* 📚 Atualmente estudando e realizando cursos pela Alura
 
-<img 
-align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
+## 🤖 Linguagens e Tecnologias
+
+<div align="left">
+  <img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="40px"
     style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
-/>
-          
-<img 
-align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-           
-/>
-       
-<img 
-align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
-/>
-          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+  />
+
 <img
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
-   />
+ align="left"
+ alt="Visual Basic"
+ title="Visual Basic"
+ width="40px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg"
+/>
+
+<img
+ align="left"
+ alt="Python"
+ title="Python"
+ width="40px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+/>
+
+<img
+ align="left"
+ alt="HTML5"
+ title="HTML5"
+ width="40px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
+/>
+
+<img
+ align="left"
+ alt="CSS3"
+ title="CSS3"
+ width="40px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+/>
+
+</div>
+
 <br/>
-<br/>      
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rafael-moriya&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-moriya&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
 <br/>
-<br/>
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  
-[![Rafaelmoriya WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafael-moriya)](https://github.com/rafael-moriya/github-readme-stats)
 
-<img src="https://raw.githubusercontent.com/rafael-moriya/rafael-moriya/output/snake.svg" alt="Snake animation" />
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=rafael-moriya&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
+
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-moriya&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
+
+</div>
+
+## ⏱️ Atividade
+
+<div align="center">
+
+<a href="https://github.com/rafael-moriya/github-readme-stats">
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=rafael-moriya"
+    alt="Estatísticas do WakaTime"
+  />
+</a>
+
+<br/>
+
+<img
+src="https://raw.githubusercontent.com/rafael-moriya/rafael-moriya/output/snake.svg"
+alt="Snake animation"
+/>
 
 </div>
