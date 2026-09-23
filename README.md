@@ -75,29 +75,7 @@
 
 <br/>
 
-## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-  <a href="https://github.com/rafael-moriya">
-
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=rafael-moriya&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-      alt="Estatísticas do GitHub"
-    />
-
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-moriya&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"
-      alt="Linguagens mais utilizadas"
-    />
-
-  </a>
-
-</div>
-
-<br/>
 
 ## 🔥 GitHub Streak
 
