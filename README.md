@@ -1,6 +1,6 @@
-# Olá, eu sou Rafael Moriya! 👋
+# Oi, eu sou Rafael Moriya
 
-<p>Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por programação e tecnologia.</p>
+<p>Estudante de Análise e Desenvolvimento de Sistemas.</p>
 
 ## 🎓 Sobre mim
 
